@@ -33,11 +33,12 @@ h2 {font-family: Fira Sans;}
 }
 .top1 h1{
     font-size: 45px;
-    text-shadow: 1px 0 black;
     font-weight: bolder;
     margin-left: 6rem;
     line-height: 45px;
     letter-spacing: -0.02em;
+    -webkit-text-stroke: 1px;
+
 }
 .top1 h2{
     font-size: 13.9px;
@@ -76,9 +77,10 @@ h2 {font-family: Fira Sans;}
 .top2 h1{
     font-size: 32px;
     letter-spacing: -0.02em;
-    text-shadow: 1px 0 white;
     font-weight: 900; 
     color: white;
+    -webkit-text-stroke: 1px;
+
 
 }
 .top2 h2{
@@ -98,7 +100,7 @@ h2 {font-family: Fira Sans;}
 .top3 h1{
     font-size: 32px;
     letter-spacing: -0.02em;
-    text-shadow: 1px 0 white;
+    -webkit-text-stroke: 1px;
     font-weight: 900; 
     color: white;
     margin: -0.3rem;
@@ -136,7 +138,7 @@ nav h2:nth-child(1){
 }
 .mid1 h1{
     font-size: 45px;
-    text-shadow: 1px 0 rgb(255, 255, 255);
+    -webkit-text-stroke: 1px;
     font-weight: bolder;
     margin-top: 5rem;
     margin-left: 6rem;
@@ -309,7 +311,7 @@ nav h2:nth-child(1){
 
 .mid3 h1{
 font-size: 45px;
-text-shadow: 1px 0 rgb(255, 255, 255);
+-webkit-text-stroke: 1px;
 font-weight: bolder;
 line-height: 45px;
 letter-spacing: -0.02em;
@@ -341,7 +343,7 @@ margin-top: 8rem;
     letter-spacing: -0.02em;
     text-align: center;
     color: rgba(0, 0, 0, 0.8);
-    text-shadow: 1px 0 black;
+    -webkit-text-stroke: 1px;
     line-height: 100%;
 
 }
@@ -355,7 +357,7 @@ margin-top: 8rem;
     font-weight: 900;
     font-size: 35px;
     color: rgba(0, 0, 0, 0.4);
-    text-shadow: 0.5px 0 rgba(0, 0, 0, 0.4);
+    -webkit-text-stroke: 1px;
     align-self: flex-start;
     margin-left: 2rem;
 }
@@ -380,7 +382,7 @@ margin-top: 8rem;
     font-weight: 900;
     font-size: 35px;
     color: rgba(0, 0, 0, 0.4);
-    text-shadow: 0.5px 0 rgba(0, 0, 0, 0.4);
+    -webkit-text-stroke: 1px;
     align-self: flex-start;
     margin-left: 2rem;
 }
@@ -403,7 +405,7 @@ margin-top: 8rem;
     font-weight: 900;
     font-size: 35px;
     color: rgba(0, 0, 0, 0.4);
-    text-shadow: 0.5px 0 rgba(0, 0, 0, 0.4);
+    -webkit-text-stroke: 1px;
     align-self: flex-start;
     margin-left: 2rem;
 }
@@ -426,7 +428,7 @@ margin-top: 8rem;
     font-weight: 900;
     font-size: 35px;
     color: rgba(0, 0, 0, 0.4);
-    text-shadow: 0.5px 0 rgba(0, 0, 0, 0.4);
+    -webkit-text-stroke: 1px;
     align-self: flex-start;
     margin-left: 2rem;
 }
@@ -449,7 +451,7 @@ margin-top: 8rem;
     font-weight: 900;
     font-size: 35px;
     color: rgba(0, 0, 0, 0.4);
-    text-shadow: 0.5px 0 rgba(0, 0, 0, 0.4);
+    -webkit-text-stroke: 1px;
     align-self: flex-start;
     margin-left: 2rem;
 }
