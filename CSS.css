@@ -530,7 +530,6 @@ margin-top: 8rem;
 
     flex: 2 100%;
     display: flex;
-    opacity: 0.4;
     text-align: center;
     width: 850px;
 
@@ -553,9 +552,12 @@ ul>li>a {
 
 .nav_bar li {
     flex: 4;
-    font-size: 2vh;
+    font-size: 12px;
     font-family: 'Fira Sans';
     list-style-type: none;
+    opacity: 0.4;
+    font-weight: 600;
+
 
 }
 
